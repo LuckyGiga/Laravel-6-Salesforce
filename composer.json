@@ -1,12 +1,12 @@
 {
-  "name": "davispeixoto/laravel5-salesforce",
-  "description": "Laravel 5 Salesforce Force.com PHP Toolkit port",
+  "name": "luckygiga/laravel6-salesforce",
+  "description": "Laravel 6 Salesforce Force.com PHP Toolkit port",
   "keywords": [
     "laravel",
     "salesforce",
     "crm",
     "force.com toolkit",
-    "laravel 5"
+    "laravel 6"
   ],
   "license": "MIT",
   "authors": [
