@@ -1,6 +1,8 @@
-# Laravel 5 Salesforce
+# Laravel  Salesforce
 
-This Laravel 5 package provides an interface for using [Salesforce CRM](http://www.salesforce.com/) through its **SOAP API**.
+This Laravel ~~5~~ **6** package provides an interface for using [Salesforce CRM](http://www.salesforce.com/) through its **SOAP API**.
+
+Trying to make it work with Laravel 6!!!
 
 _(Laravel 4 Salesforce Package can be found [here](https://github.com/davispeixoto/Laravel-4-Salesforce))_
 
